@@ -1,0 +1,8 @@
+2024-11-04 18:27:36,615 - INFO - Starting the application...
+2024-11-04 18:27:36,615 - INFO - Loading models...
+2024-11-04 18:27:36,765 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-11-04 18:27:36,773 - INFO - loading Word2Vec object from word2vec_model.bin
+2024-11-04 18:27:36,776 - INFO - loading wv recursively from word2vec_model.bin.wv.* with mmap=None
+2024-11-04 18:27:36,776 - INFO - setting ignored attribute cum_table to None
+2024-11-04 18:27:36,785 - INFO - Word2Vec lifecycle event {'fname': 'word2vec_model.bin', 'datetime': '2024-11-04T18:27:36.785352', 'gensim': '4.3.3', 'python': '3.10.12 (main, Sep 11 2024, 15:47:36) [GCC 11.4.0]', 'platform': 'Linux-6.1.85+-x86_64-with-glibc2.35', 'event': 'loaded'}
+2024-11-04 18:27:36,785 - INFO - Models loaded successfully.
